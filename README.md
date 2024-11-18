@@ -28,7 +28,7 @@ Here are some highlights from my portfolio:
 
 #### **[Daily Data and Case Management Platform](https://github.com/efa07/Daily-Data-and-Case-Management-Platform)**
 <p align="center">
-  <img src="https://media.giphy.com/media/3og0IQvYZLB1TxkKFO/giphy.gif" alt="Daily Data and Case Management Platform GIF" width="500"/>
+ <div style="position: relative; padding-bottom: 53.90625%; height: 0;"><iframe src="https://www.loom.com/embed/4c868bafec2e49cdb55bd8924f860d3b?sid=73d24d57-0896-4526-ba8e-017b02f38667" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 </p>
 - 💡 A comprehensive platform for tracking, managing, and analyzing daily cases and data.
 - 💻 **Tech Stack:** MERN, REST APIs, Authentication.
