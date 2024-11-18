@@ -66,16 +66,15 @@ Here are some highlights from my portfolio:
 </p>
 
 ---
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=efa07&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=efa07&theme=tokyonight" alt="GitHub Streak" /> <br /> <img src="https://activity-graph.herokuapp.com/graph?username=efa07&theme=tokyonight" alt="GitHub Activity Graph" /> </p>
+
+
 
 ### ⚡ **Fun Fact**
 Did you know? A single line of well-placed code can save hours of work—and I’m all about finding those lines! When I'm not coding, you’ll find me:
 - ♟️ Playing chess.
 - 🔓 Exploring penetration testing.
 - 📺 Watching YouTube videos about new frameworks.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vRn5Y5ShFVchIIE/giphy.gif" alt="Fun Fact GIF" width="300"/>
-</p>
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=efa07.efa07" alt="visitor count" />
