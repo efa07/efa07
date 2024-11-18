@@ -66,8 +66,6 @@ Here are some highlights from my portfolio:
 </p>
 
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=efa07&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=efa07&theme=tokyonight" alt="GitHub Streak" /> <br /> <img src="https://activity-graph.herokuapp.com/graph?username=efa07&theme=tokyonight" alt="GitHub Activity Graph" /> </p>
-
 
 
 ### ⚡ **Fun Fact**
