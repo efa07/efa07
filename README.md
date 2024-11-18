@@ -41,20 +41,6 @@ Here are some highlights from my portfolio:
 - 🔐 **Key Features:** Role-based access, predictive analytics, and secure communication.
 - 🌐 **Built with:** React, Node.js, TypeScript, and Python.
 
-#### **[Project 3: Name of Project](https://github.com/efa07/project3)**
-<p align="center">
-  <img src="https://media.giphy.com/media/XYZ12345678/giphy.gif" alt="Project 3 GIF" width="500"/>
-</p>
-- 🔧 **Description:** Brief explanation of what this project does.
-- 💻 **Tech Stack:** Technologies used.
-
-#### **[Project 4: Name of Project](https://github.com/efa07/project4)**
-<p align="center">
-  <img src="https://media.giphy.com/media/XYZ987654/giphy.gif" alt="Project 4 GIF" width="500"/>
-</p>
-- 🔧 **Description:** Brief explanation of what this project does.
-- 💻 **Tech Stack:** Technologies used.
-
 ---
 
 ### 🛠 **Skills**
@@ -81,20 +67,6 @@ Here are some highlights from my portfolio:
   <a href="mailto:efatariku07@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/efa07" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
----
-
-### 💼 **Experience**
-#### **Software Engineering Intern | [Company Name](#)**
-- 🔧 Contributed to the development of **[Project Name](#)**, focusing on **backend APIs** and **database optimization**.
-- 📊 Implemented **data analytics** solutions, improving efficiency by **X%**.
-- 🛠 Developed and maintained high-performance **web applications** in **React** and **Node.js**.
-
----
-
-### 🎯 **Certifications**
-- 🎓 **ALX Software Engineering Program** - *2024*
-- 📜 **[Certification Name](#)** - *Issuing Organization* – *2024*
 
 ---
 
