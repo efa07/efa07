@@ -30,15 +30,18 @@ Here are some highlights from my portfolio:
 <p align="center">
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Dipar Hospital Management System GIF" width="500"/>
 </p>
+
 - 💡 A comprehensive platform for tracking, managing, and analyzing daily cases and data.
+  
 - 💻 Tech Stack: MERN, REST APIs, Authentication.
 
 #### **[Dipar Hospital Management System](https://github.com/efa07/dipar)**
 <p align="center">
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Dipar Hospital Management System GIF" width="500"/>
 </p>
+
 * 🚑 A robust system to digitize hospital processes, including patient and lab test management.
-* 🔐 **Key Features:** Role-based access, predictive analytics, and secure communication.
+* 🔐 Key Features: Role-based access, predictive analytics, and secure communication.
 * 🌐 Built with: React, Node.js, TypeScript, and Python.
 
 ---
