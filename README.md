@@ -48,7 +48,7 @@ Here are some highlights from my portfolio:
 
 ### 🛠 **Skills**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,flask,django,mongodb,git,docker" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,flask,django,mongodb,git,docker,linux,html,css,nextjs,express,mysql,redis,nginx,kali" alt="skills" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ Here are some highlights from my portfolio:
 
 ### ⚡ **Fun Fact**
 Did you know? A single line of well-placed code can save hours of work—and I’m all about finding those lines! When I'm not coding, you’ll find me:
-- ♟️ Playing chess.
+- ♟ Playing chess.
 - 🔓 Exploring penetration testing.
 - 📺 Watching YouTube videos about new frameworks.
 - 📚 Reading books on **AI** and **cloud technologies**.
