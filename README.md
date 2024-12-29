@@ -44,7 +44,6 @@ Here are some highlights from my portfolio:
 - 🌐 Built with: React, Node.js, TypeScript, and Python.
 
 ---
-
 ### 🛠 **Skills**
 <div align="center">
   <table>
@@ -146,6 +145,18 @@ Here are some highlights from my portfolio:
         <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" title="Kali Linux" width="65" />
         <br />
         <strong>Kali Linux</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="65" />
+        <br />
+        <strong>Tailwind CSS</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" width="65" />
+        <br />
+        <strong>Redux</strong>
       </td>
     </tr>
   </table>
