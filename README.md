@@ -32,7 +32,6 @@ Here are some highlights from my portfolio:
 </p>
 
 - 💡 A comprehensive platform for tracking, managing, and analyzing daily cases and data.
-  
 - 💻 Tech Stack: MERN, REST APIs, Authentication.
 
 #### **[Dipar Hospital Management System](https://github.com/efa07/dipar)**
@@ -40,15 +39,46 @@ Here are some highlights from my portfolio:
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Dipar Hospital Management System GIF" width="500"/>
 </p>
 
-* 🚑 A robust system to digitize hospital processes, including patient and lab test management.
-* 🔐 Key Features: Role-based access, predictive analytics, and secure communication.
-* 🌐 Built with: React, Node.js, TypeScript, and Python.
+- 🚑 A robust system to digitize hospital processes, including patient and lab test management.
+- 🔐 Key Features: Role-based access, predictive analytics, and secure communication.
+- 🌐 Built with: React, Node.js, TypeScript, and Python.
 
 ---
 
 ### 🛠 **Skills**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,flask,django,mongodb,git,docker,linux,html,css,nextjs,express,mysql,redis,nginx,kali" alt="skills" />
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+    <br />Python
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" />
+    <br />JavaScript
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
+    <br />React
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
+    <br />Tailwind CSS
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" />
+    <br />Redux
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
+    <br />Node.js
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" />
+    <br />Django
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" />
+    <br />Flask
+  </a>
 </p>
 
 ---
