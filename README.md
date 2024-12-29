@@ -146,8 +146,6 @@ Here are some highlights from my portfolio:
         <br />
         <strong>Kali Linux</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="65" />
         <br />
@@ -159,6 +157,7 @@ Here are some highlights from my portfolio:
         <strong>Redux</strong>
       </td>
     </tr>
+    
   </table>
 </div>
 
