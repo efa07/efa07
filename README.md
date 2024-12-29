@@ -65,21 +65,16 @@ Here are some highlights from my portfolio:
         <strong>React</strong>
       </td>
       <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="65" />
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="65" />
         <br />
-        <strong>Tailwind CSS</strong>
+        <strong>Node.js</strong>
       </td>
     </tr>
     <tr>
       <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" width="65" />
+        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" width="65" />
         <br />
-        <strong>Redux</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="65" />
-        <br />
-        <strong>Node.js</strong>
+        <strong>Flask</strong>
       </td>
       <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" width="65" />
@@ -87,9 +82,70 @@ Here are some highlights from my portfolio:
         <strong>Django</strong>
       </td>
       <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" width="65" />
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="65" />
         <br />
-        <strong>Flask</strong>
+        <strong>MongoDB</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="65" />
+        <br />
+        <strong>Git</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="65" />
+        <br />
+        <strong>Docker</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="65" />
+        <br />
+        <strong>Linux</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="65" />
+        <br />
+        <strong>HTML</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="65" />
+        <br />
+        <strong>CSS</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="65" />
+        <br />
+        <strong>Next.js</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" width="65" />
+        <br />
+        <strong>Express</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="65" />
+        <br />
+        <strong>MySQL</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" width="65" />
+        <br />
+        <strong>Redis</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx" width="65" />
+        <br />
+        <strong>Nginx</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" title="Kali Linux" width="65" />
+        <br />
+        <strong>Kali Linux</strong>
       </td>
     </tr>
   </table>
