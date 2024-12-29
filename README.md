@@ -46,40 +46,55 @@ Here are some highlights from my portfolio:
 ---
 
 ### 🛠 **Skills**
-<p align="center">
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
-    <br />Python
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" />
-    <br />JavaScript
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
-    <br />React
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
-    <br />Tailwind CSS
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" />
-    <br />Redux
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
-    <br />Node.js
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" />
-    <br />Django
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" />
-    <br />Flask
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="65" />
+        <br />
+        <strong>Python</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" width="65" />
+        <br />
+        <strong>JavaScript</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="65" />
+        <br />
+        <strong>React</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="65" />
+        <br />
+        <strong>Tailwind CSS</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" width="65" />
+        <br />
+        <strong>Redux</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="65" />
+        <br />
+        <strong>Node.js</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" width="65" />
+        <br />
+        <strong>Django</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" width="65" />
+        <br />
+        <strong>Flask</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
