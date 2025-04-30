@@ -4,14 +4,14 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&width=450&lines=Software+Engineer+and+Problem+Solver;ALX+Software+Engineering+Graduate;Ethical+Hacker+%26+Web+Developer;Turning+Ideas+into+Code;Building+Secure+%26+Impactful+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&width=450&lines=_software+Engineer+and+Problem+Solver;ALX+Software+Engineering+Graduate+%26+Web+Developer;Turning+Ideas+into+Code;Building+Secure+%26+Impactful+Applications" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 **About Me**
 - 🎓 Graduated from the **ALX Software Engineering Program**, a transformative year-long journey in programming, system design, and collaboration.
-- 💻 Proficient in **Python**, **JavaScript**, **MERN Stack**, **Flask**, and **Django**.
+- 💻 Proficient in **Python**, **JavaScript**, **MERN Stack**,**REACT**,**NEXT.JS**,**SQL**,**NOSQL**, **Flask**, and **Django**.
 - 🌱 Currently exploring **advanced backend development** and **cloud computing**.
 - 🔭 My passion lies in creating impactful applications that solve real-world problems and improve user experience.
 - 💬 Always happy to connect and discuss topics like **data security**, **web development**, **ethical hacking**, and **automation**.
