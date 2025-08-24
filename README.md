@@ -33,15 +33,15 @@ Here are some highlights from my portfolio:
 
 - 💡 A comprehensive platform for tracking, managing, and analyzing daily cases and data.
 - 💻 Tech Stack: MERN, REST APIs, Authentication.
+---
 
 #### **[OneCitizen Portal](https://github.com/efa07/OneCitizen)**
 <p align="center">
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="onecitizen GIF" width="500"/>
 </p>
 
-<p>
-  Developed a digital public service portal with Fayda Authentication, syncing citizen data and providing unified access to services.
-</p>
+ - 💡 Developed a digital public service portal with Fayda Authentication, syncing citizen data and providing unified access to services.
+ - 💻 Tech Stack: Node.js (Express), PostgreSQL, Redis, JWT, Next.js, Tailwind CSS, Shadcn UI, Axios
 ---
 ### 🛠 **Skills**
 <div align="center">
