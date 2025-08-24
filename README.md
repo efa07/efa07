@@ -34,15 +34,14 @@ Here are some highlights from my portfolio:
 - 💡 A comprehensive platform for tracking, managing, and analyzing daily cases and data.
 - 💻 Tech Stack: MERN, REST APIs, Authentication.
 
-#### **[Dipar Hospital Management System](https://github.com/efa07/dipar)**
+#### **[OneCitizen Portal](https://github.com/efa07/OneCitizen)**
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Dipar Hospital Management System GIF" width="500"/>
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="onecitizen GIF" width="500"/>
 </p>
 
-- 🚑 A robust system to digitize hospital processes, including patient and lab test management.
-- 🔐 Key Features: Role-based access, predictive analytics, and secure communication.
-- 🌐 Built with: React, Node.js, TypeScript, and Python.
-
+<p>
+  Developed a digital public service portal with Fayda Authentication, syncing citizen data and providing unified access to services.
+</p>
 ---
 ### 🛠 **Skills**
 <div align="center">
