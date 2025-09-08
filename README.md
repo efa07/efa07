@@ -1,194 +1,82 @@
 <h1 align="center">Hi 👋, I'm Efa Tariku</h1>
-<h3 align="center">A Passionate Software Engineer and ALX Program Graduate</h3>
+<h3 align="center">Software Engineer | ALX Program Graduate</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00ADB5&center=true&width=600&lines=software+Engineer+and+Problem+Solver;ALX+software+Engineering+Graduate;Web+Developer;Turning+Ideas+into+Code;Building+Secure+%26+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00ADB5&center=true&width=600&lines=Software+Engineer;Full-Stack+Developer;ALX+Graduate;Problem+Solver;Building+Secure+Applications" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 **About Me**
-- 🎓 Graduated from the **ALX Software Engineering Program**, a transformative year-long journey in programming, system design, and collaboration.
-- 💻 Proficient in **Python**, **JavaScript**, **MERN Stack**,**REACT**,**NEXT.JS**,**SQL**,**NOSQL**, **Flask**, and **Django**.
-- 🌱 Currently exploring **advanced backend development** and **cloud computing**.
-- 🔭 My passion lies in creating impactful applications that solve real-world problems and improve user experience.
-- 💬 Always happy to connect and discuss topics like **data security**, **web development**, **ethical hacking**, and **automation**.
+### 👨‍💻 About Me
+- 🎓 Graduate of the **ALX Software Engineering Program**.  
+- 💻 Experienced with **Python**, **JavaScript**, **MERN Stack**, **React**, **Next.js**, **SQL/NoSQL**, **Flask**, and **Django**.  
+- 🌱 Currently learning more about **backend architecture** and **cloud platforms**.  
+- 🔭 I focus on building applications that are reliable, scalable, and secure.  
+- 💬 Open to discussions on **web development**, **system design**, **cybersecurity**, and **automation**.  
 
 ---
 
-### 🌟 **Inspiration**
-My software engineering journey began with a simple curiosity about how technology can transform lives. Today, I am driven by the belief that code is more than syntax—it’s a means to innovate, inspire, and create solutions for tomorrow's challenges.
+### 🌟 My Journey
+I started exploring programming out of curiosity, and it grew into a career path where I get to design and build systems that solve problems. For me, writing code is about more than just shipping features—it’s about creating tools that people can rely on.
 
 ---
 
-### 📂 **Projects**
-Here are some highlights from my portfolio:
+### 📂 Projects
 
-#### **[Daily Data and Case Management Platform](https://github.com/efa07/Daily-Data-and-Case-Management-Platform)**
+#### [Daily Data and Case Management Platform](https://github.com/efa07/Daily-Data-and-Case-Management-Platform)
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Dipar Hospital Management System GIF" width="500"/>
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="500"/>
 </p>
 
-- 💡 A comprehensive platform for tracking, managing, and analyzing daily cases and data.
-- 💻 Tech Stack: MERN, REST APIs, Authentication.
+- A platform for tracking and analyzing daily data and cases.  
+- **Stack:** MERN, REST APIs, Authentication.  
+
 ---
 
-#### **[OneCitizen Portal](https://github.com/efa07/OneCitizen)**
+#### [OneCitizen Portal](https://github.com/efa07/OneCitizen)
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="onecitizen GIF" width="500"/>
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="500"/>
 </p>
 
- - 💡 Developed a digital public service portal with Fayda Authentication, syncing citizen data and providing unified access to services.
- - 💻 Tech Stack: Node.js (Express), PostgreSQL, Redis, JWT, Next.js, Tailwind CSS, Shadcn UI, Axios
+- A digital public service portal with Fayda Authentication, syncing citizen data and providing unified service access.  
+- **Stack:** Node.js (Express), PostgreSQL, Redis, JWT, Next.js, Tailwind CSS, Shadcn UI, Axios.  
+
 ---
-### 🛠 **Skills**
+
+### 🛠 Skills
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="65" />
-        <br />
-        <strong>Python</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" width="65" />
-        <br />
-        <strong>JavaScript</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="65" />
-        <br />
-        <strong>React</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="65" />
-        <br />
-        <strong>Node.js</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" width="65" />
-        <br />
-        <strong>Flask</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" width="65" />
-        <br />
-        <strong>Django</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="65" />
-        <br />
-        <strong>MongoDB</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="65" />
-        <br />
-        <strong>Git</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="65" />
-        <br />
-        <strong>Docker</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="65" />
-        <br />
-        <strong>Linux</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="65" />
-        <br />
-        <strong>HTML</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="65" />
-        <br />
-        <strong>CSS</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="65" />
-        <br />
-        <strong>Next.js</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" width="65" />
-        <br />
-        <strong>Express</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="65" />
-        <br />
-        <strong>MySQL</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" width="65" />
-        <br />
-        <strong>Redis</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx" width="65" />
-        <br />
-        <strong>Nginx</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" title="Kali Linux" width="65" />
-        <br />
-        <strong>Kali Linux</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="65" />
-        <br />
-        <strong>Tailwind CSS</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" width="65" />
-        <br />
-        <strong>Redux</strong>
-      </td>
-    </tr>
-    
-  </table>
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,flask,django,mongodb,git,docker,linux,html,css,nextjs,express,mysql,redis,nginx,kali,tailwind,redux" />
 </div>
 
-
 ---
 
-### 📈 **GitHub Stats**
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=efa07&show_icons=true&theme=tokyonight" alt="efa07 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=efa07&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efa07&theme=tokyonight" alt="efa07 GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efa07&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efa07&layout=compact&theme=tokyonight" alt="efa07 Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efa07&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 **Connect With Me**
+### 🌐 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/efa-tariku-39509a29a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:efatariku07@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/efa07" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### ⚡ **Fun Fact**
-Did you know? A single line of well-placed code can save hours of work—and I’m all about finding those lines! When I'm not coding, you’ll find me:
-- ♟ Playing chess.
-- 🔓 Exploring penetration testing.
-- 📺 Watching YouTube videos about new frameworks.
-- 📚 Reading books on **AI** and **cloud technologies**.
+### ⚡ Outside of Code
+When I’m not building or testing software, you’ll probably find me:  
+- ♟ Playing chess.  
+- 🔓 Practicing penetration testing.  
+- 📺 Exploring new frameworks and tech on YouTube.  
+- 📚 Reading about **AI** and **cloud computing**.  
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=efa07.efa07" alt="visitor count" />
