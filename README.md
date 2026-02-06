@@ -23,15 +23,16 @@ I don’t just ship features—I think about **how systems behave under pressure
 
 ## 🧩 Featured Projects
 
-### 🏛️ OneCitizen – Unified Digital Public Service Portal
-🔗 **Repo:** https://github.com/efa07/OneCitizen
+### 🏗️ Material Asset System Frontend
+🔗 **Repo:** https://github.com/efa07/Material-Asset-System-frontend
 
-- Centralized digital public services with **Fayda authentication**
-- Syncs citizen data securely and renders role-based dashboards
-- Designed with scalability and future government integrations in mind  
+- Web application for efficient management, tracking, and organization of material assets
+- Developed with **Next.js**, **React Query**, and **Austand** for a responsive UI and state management
+- Integrates a **NestJS** backend with **PostgreSQL** for robust data handling and **Redis** for real-time updates & caching
+- Features intuitive workflows, advanced search, customizable dashboards, and secure asset operations
 
 **Tech Stack:**  
-`Node.js (Express)` · `PostgreSQL` · `Redis` · `JWT` · `Next.js` · `Tailwind CSS` · `Shadcn UI`
+`Next.js` · `React Query` · `Austand` · `NestJS` · `PostgreSQL` · `Redis`
 
 ---
 
