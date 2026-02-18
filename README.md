@@ -15,7 +15,7 @@ I enjoy designing systems that are **scalable, reliable, and hard to break**.
 - 🎓 ALX Software Engineering Program Graduate  
 - 🧠 Strong in problem analysis & system thinking  
 - 🔐 Interested in secure application design & backend architecture  
-- 🚀 Currently diving deeper into **cloud platforms & distributed systems**
+- 🚀 Currently diving deeper into **cloud platforms & AI**
 
 I don’t just ship features—I think about **how systems behave under pressure**.
 
@@ -32,7 +32,7 @@ I don’t just ship features—I think about **how systems behave under pressure
 - Features intuitive workflows, advanced search, customizable dashboards, and secure asset operations
 
 **Tech Stack:**  
-`Next.js` · `React Query` · `Austand` · `NestJS` · `PostgreSQL` · `Redis`
+`Next.js` · `React Query` · `Zustand` · `NestJS` · `PostgreSQL` ·`Keycloak auth` 
 
 ---
 
